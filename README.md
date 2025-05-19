@@ -17,8 +17,8 @@ A modern, responsive web application for predicting the Fire Weather Index (FWI)
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/fwi-prediction-app.git
-    cd fwi-prediction-app
+    git clone https://github.com/hirux06/algerian-ff-lr.git
+    cd algerian-ff-lr
     ```
 
 2. **Run the Flask server:**
@@ -31,6 +31,11 @@ A modern, responsive web application for predicting the Fire Weather Index (FWI)
 
 4. **Enter the required data:**  
     Fill in all fields and click **Predict** to get the FWI prediction.
+
+5. **Before all this, please run this:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Input Fields
 
